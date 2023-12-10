@@ -99,24 +99,6 @@
     <None Include="Resources\1-83408-128.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\_0WxSFEuvlA.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3f1N4NWSRY8.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\mDr3zbo2MGM.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\applications_folder_20377.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\applications_folder_203771.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2020-04-08_21-28-16-143x143.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\rfgfdg.png" />
   </ItemGroup>
   <ItemGroup>
